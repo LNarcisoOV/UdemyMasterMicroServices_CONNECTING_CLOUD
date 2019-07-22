@@ -1,4 +1,4 @@
-package com.udemy.limitsmicroservice.limitsService;
+package com.udemy.limitsmicroservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
